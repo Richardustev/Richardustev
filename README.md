@@ -1,4 +1,4 @@
-Hi there! 👋
+<h1>Hi there! 👋</h1>
 
 - 🌱 I’m currently learning to become a full stack web developer.
 - 📫 How to reach me: rickaaraujoc@gmail.com
