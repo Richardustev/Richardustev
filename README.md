@@ -1,19 +1,12 @@
-<h1>Hi there! 👋</h1>
+<h2>About✨</h2>
+
+Hi there! 😄,
+My name is Ricardo Araujo, right now I'm studying to become an informatic engineer at URBE. <br>
+I really love everything related to web development.
 
 - 🌱 I’m currently learning to become a full stack web developer.
 - 📫 How to reach me: rickaaraujoc@gmail.com
 
-<!--
-**Richardustev/Richardustev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm currently learning.. 📖</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm practicing a lot with HTML, CSS, PHP and MYSQL. I also have some experience working with BootStrap for web design 👀.
