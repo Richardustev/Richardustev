@@ -6,6 +6,7 @@ I really love everything related to <i>web development</i>.
 
 - 🌱 I’m currently learning to become a full stack web developer.
 - 📫 How to reach me: rickaaraujoc@gmail.com
+- 🌍 My website: https://ricardoaraujourbe.site/
 
 <h2>I'm currently learning.. 📖</h2>
 
